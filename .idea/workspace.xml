@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f51efe-6f7b-4e9c-8037-0ca12a1d7081" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implement_omit&lt;T&gt;.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implement_partial&lt;T&gt;.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implement_pick&lt;T&gt;.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implement_readonly&lt;T&gt;.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implement_record&lt;T&gt;.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/implement_required&lt;T&gt;.ts" afterDir="false" />
+    <list default="true" id="95f51efe-6f7b-4e9c-8037-0ca12a1d7081" name="変更" comment="add puzzles">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2b806u3zOGdqv8vYvQgxYu4FMGJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,9 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/hiroshiimaizumi/Development/TypeScriptPuzzle/TypeScriptPuzzle",
     "node.js.detected.package.eslint": "true",
@@ -60,11 +63,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705498250930</updated>
-      <workItem from="1705498253031" duration="2037000" />
+      <workItem from="1705498253031" duration="2579000" />
+      <workItem from="1705581231708" duration="1595000" />
     </task>
+    <task id="LOCAL-00001" summary="add puzzles">
+      <option name="closed" value="true" />
+      <created>1705500344842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705500344842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add puzzles" />
+    <option name="LAST_COMMIT_MESSAGE" value="add puzzles" />
   </component>
 </project>
